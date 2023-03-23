@@ -30,7 +30,7 @@ class Sample
                 System.out.println("Win");
             }
             else{
-                System.out.println("Lose");
+                System.out.println("Loss" );
             }
         }
     }
